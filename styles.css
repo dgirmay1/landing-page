@@ -177,4 +177,8 @@ p.secondary {
   
   footer {
     background-color: #1f2937;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    padding: 2em 0;
   }
